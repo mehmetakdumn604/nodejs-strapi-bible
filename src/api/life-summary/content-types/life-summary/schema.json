@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "life_summaries",
+  "info": {
+    "singularName": "life-summary",
+    "pluralName": "life-summaries",
+    "displayName": "LifeSummary"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    }
+  }
+}
